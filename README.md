@@ -15,4 +15,5 @@ Contiki-Cooja es una herramienta integral que facilita el desarrollo y la simula
 Para obtener más información sobre Contiki-Cooja, Contiki-NG y otras referencias relevantes, consulta la documentación y los recursos adicionales proporcionados en este repositorio.
 
 [123] - Inserta aquí la referencia bibliográfica relevante.
+píjjoihpoih
 
