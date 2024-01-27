@@ -1,4 +1,4 @@
-# Proyecto de Detección de Vulnerabilidades en Nodos RPL
+# VALIDACIÓN DEL SISTEMA DE DETECCIÓN DE INTRUSOS CON USO DEL SIMULADOR CONTIKI-COOJA
 
 Este repositorio contiene el código y los resultados de la validación de un Intrusion Detection System (IDS) propuesto para la detección de vulnerabilidades en nodos basados en RPL (Routing Protocol for Low-Power and Lossy Networks). En el proceso de validación, realizamos una comparación de algoritmos de detección de anomalías utilizando aprendizaje automático.
 
